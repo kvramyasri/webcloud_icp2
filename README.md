@@ -6,5 +6,5 @@ Simple HTML Page, Google Homepage
 #### Programming elements:
 HTML, CSS
 #### Contributors
-K V Ramyasr
+K V Ramyasri
 
