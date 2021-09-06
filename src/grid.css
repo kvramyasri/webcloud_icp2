@@ -1,0 +1,46 @@
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex-item {
+    background-color: #f1f1f1;
+    margin: 1px;
+    width: 70px;
+    height: 70px;
+}
+.flex-item:before {
+    padding-top:100%;
+}
+.box{
+    margin-right: auto;
+    margin-left: auto;
+    width: 25%;
+}
+#grid1{
+    background-color:#DF5A56
+}
+#grid2{
+    background-color:#8E83C8
+}
+#grid3{
+    background-color:#959DA9
+}
+#grid4{
+    background-color:#EA9D40
+}
+#grid5{
+     background-color:#AE6391
+ }
+#grid6{
+    background-color:#38257C
+}
+#grid7{
+    background-color:#B9D4A9
+}
+#grid8{
+    background-color:#B4C5BF
+}
+#grid9{
+    background-color:#84B0B7
+}
